@@ -12,7 +12,7 @@ const SeluMP = {
 
 # 📫 Contact Me
 - LinkedIn - [Jose Luis Martínez](https://www.linkedin.com/in/jose-luis-mart%C3%ADnez-perea)
-- Email - (joseluone@gmail.com)
+- Email - joseluone@gmail.com
 
 
 
