@@ -3,10 +3,10 @@
 
 ```javascript
 const SeluMP = {
-  pronouns: "he" | "him",
-  code: [Java, JavaScript, C, C++, Python, Assembly],
-  database: [MySQL, PostgreSQL, MongoDB],
-  tools: [Eclipse, Maven, JUnit, Intelli J, Mars, Postman/Curl],
+    pronouns: "he" | "him",
+    code: [Java, JavaScript, C, C++, Python, Assembly],
+    database: [MySQL, PostgreSQL, MongoDB],
+    tools: [Eclipse, Maven, JUnit, Intelli J, Mars, Postman/Curl],
   }
 ```
 
